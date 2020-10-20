@@ -4,8 +4,8 @@ A living systematic review
 
 Short url: http://openmetaanalysis.github.io/COVID-19-treatment-with-remdesivir/
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective. Heterogeneity of results as measured by I<sup>2</sup> was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 74%. However:
-* Low risk group is significantly helped with Hartung-Knapp analysis not used
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective. Heterogeneity of results as measured by I<sup>2</sup> was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 74% before creating clinical subgroup. However:
+* Low risk group is significantly helped if  Hartung-Knapp analysis is not used
 * Could not include the Solidarity arm that mixes low and hi-flow O2
 This review updates previously published meta-analysis(es).(citation[s] below)
 
