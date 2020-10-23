@@ -45,6 +45,7 @@ References:
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
 1. WHO Solidarity Trial Consortium, Pan H, Peto R, Karim QA, Alejandria M, Restrepo AMH, Garcia CH, Kieny MP, Malekzadeh R, Murthy S, Preziosi M-P, Reddy S, Roses M, Sathiyamoorthy V, Rottingen J-A, Swaminathan S. Repurposed antiviral drugs for COVID-19; interim WHO SOLIDARITY trial results. medRxiv [Internet]. Cold Spring Harbor Laboratory Press; 2020 Oct 15 [cited 2020 Oct 18];2020.10.15.20209817. DOI [10.1101/2020.10.15.20209817](http://doi.org/10.1101/2020.10.15.20209817); Available from: https://www.medrxiv.org/content/10.1101/2020.10.15.20209817v1 *This RCT includes a meta-analysis*
+2. Juul S, Nielsen EE, Feinberg J, Siddiqui F, Jørgensen CK, Barot E, Nielsen N, Bentzer P, Veroniki AA, Thabane L, Bu F, Klingenberg S, Gluud C, Jakobsen JC. Interventions for treatment of COVID-19: A living systematic review with meta-analyses and trial sequential analyses (The LIVING Project). PLoS Med. 2020 Sep 17;17(9):e1003293. doi: [10.1371/journal.pmed.1003293](http://doi.org/10.1371/journal.pmed.1003293);. PMID: [32941437](http://pubmed.gov/32941437); PMCID: PMC7498193.
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
