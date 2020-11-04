@@ -1,6 +1,6 @@
 COVID-19 treatment with remdesivir
 ============================================
-A living systematic review
+A 'really rapid' living systematic review
 
 Short url: http://openmetaanalysis.github.io/COVID-19-treatment-with-remdesivir/
 
