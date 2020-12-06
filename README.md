@@ -8,10 +8,10 @@ Short url: http://openmetaanalysis.github.io/covid-19/
 * Low risk group is significantly helped if  Hartung-Knapp analysis is not used
 * Could not include the Solidarity arm that mixes low and hi-flow O2
 
-This review updates previously published meta-analysis(es).(citation[s] below)
-
-An excellent interpretation of this data is at
+An excellent clinical interpretation of this data is at
 > Sax, Paul. Does Remdesivir Actually Work? HIV and ID Observations [Internet]. 2020 Oct 18 [cited 2020 Oct 20]; Available from: https://blogs.jwatch.org/hiv-id-observations/index.php/does-remdesivir-actually-work/2020/10/18/
+
+This review updates previously published meta-analysis(es).(citation[s] below)
 
 <!--
 Meta-regression of common modulators (year of publication, study size, event rate in the control groups) finds that the outcome of the intervention is effected by xx.
