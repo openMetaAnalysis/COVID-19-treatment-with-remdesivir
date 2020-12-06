@@ -11,8 +11,6 @@ Short url: http://openmetaanalysis.github.io/covid-19/
 An excellent clinical interpretation of this data is at
 > Sax, Paul. Does Remdesivir Actually Work? HIV and ID Observations [Internet]. 2020 Oct 18 [cited 2020 Oct 20]; Available from: https://blogs.jwatch.org/hiv-id-observations/index.php/does-remdesivir-actually-work/2020/10/18/
 
-This review updates previously published meta-analysis(es).(citation[s] below)
-
 <!--
 Meta-regression of common modulators (year of publication, study size, event rate in the control groups) finds that the outcome of the intervention is effected by xx.
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
