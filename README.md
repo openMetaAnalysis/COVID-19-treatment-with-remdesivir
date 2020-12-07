@@ -61,7 +61,7 @@ None
 None
 
 #### Trial(s) excluded - selected list of important trial(s)
-1 Goldman JD, Lye DCB, Hui DS, Marks KM, Bruno R, Montejano R, Spinner CD, Galli M, Ahn MY, Nahass RG, Chen YS, SenGupta D, Hyland RH, Osinusi AO, Cao H, Blair C, Wei X, Gaggar A, Brainard DM, Towner WJ, Muñoz J, Mullane KM, Marty FM, Tashima KT, Diaz G, Subramanian A; GS-US-540-5773 Investigators. Remdesivir for 5 or 10 Days in Patients with Severe Covid-19. N Engl J Med. 2020 May 27:NEJMoa2015301. doi: 10.1056/NEJMoa2015301. Epub ahead of print. PMID: [32459919](http://pubmed.gov/32459919) * No control group*
+1. Goldman JD, Lye DCB, Hui DS, Marks KM, Bruno R, Montejano R, Spinner CD, Galli M, Ahn MY, Nahass RG, Chen YS, SenGupta D, Hyland RH, Osinusi AO, Cao H, Blair C, Wei X, Gaggar A, Brainard DM, Towner WJ, Muñoz J, Mullane KM, Marty FM, Tashima KT, Diaz G, Subramanian A; GS-US-540-5773 Investigators. Remdesivir for 5 or 10 Days in Patients with Severe Covid-19. N Engl J Med. 2020 May 27:NEJMoa2015301. doi: 10.1056/NEJMoa2015301. Epub ahead of print. PMID: [32459919](http://pubmed.gov/32459919) *No control group*
 
 #### Cited by
 This repository is cited by:
