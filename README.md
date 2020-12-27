@@ -10,6 +10,7 @@ Short url: http://openmetaanalysis.github.io/covid-19/
 
 An excellent clinical interpretation of this data is at
 > Curtis MR, Sax P. Web Exclusive. Annals for Hospitalists Inpatient Notes - Remdesivir-Making Sense of Emerging Evidence. Ann Intern Med. 2020 Dec 15;173(12):HO2-HO3. doi: [10.7326/M20-7498](http://doi.org/10.7326/M20-7498). PMID: [33316192](http://pubmed.gov/33316192).
+
 > Sax P. Does Remdesivir Actually Work? HIV and ID Observations [Internet]. 2020 Oct 18 [cited 2020 Oct 20]; Available from: https://blogs.jwatch.org/hiv-id-observations/index.php/does-remdesivir-actually-work/2020/10/18/
 
 <!--
@@ -25,11 +26,11 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior [
 * [Evidence search](files/searching/evidence-search.md) for this review (under construction)
 
 **Results:** Details of the studies included are in the:
-* [Reconciliation of trials included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf) (under construction)
+* [Reconciliation of trials included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf) (under construction) <!--
 * [Description of studies (PICO table)](files/study-details/table-pico.pdf) (under construction)
 * [Risk of bias assessment](files/study-details/table-bias.pdf) (under construction)
-* [Forest plots](../master/files/forest-plots) ([source data](files/data))
-* [Network plots](../master/files/network) (optional)
+* [Network plots](../master/files/network) (optional) 
+* [Forest plots](../master/files/forest-plots) ([source data](files/data)) -->
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
 
 The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
@@ -45,8 +46,9 @@ References:
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-1. WHO Solidarity Trial Consortium, Pan H, Peto R, Karim QA, Alejandria M, Restrepo AMH, Garcia CH, Kieny MP, Malekzadeh R, Murthy S, Preziosi M-P, Reddy S, Roses M, Sathiyamoorthy V, Rottingen J-A, Swaminathan S. Repurposed antiviral drugs for COVID-19; interim WHO SOLIDARITY trial results. medRxiv [Internet]. Cold Spring Harbor Laboratory Press; 2020 Oct 15 [cited 2020 Oct 18];2020.10.15.20209817. DOI [10.1101/2020.10.15.20209817](http://doi.org/10.1101/2020.10.15.20209817); Available from: https://www.medrxiv.org/content/10.1101/2020.10.15.20209817v1 *This RCT includes a meta-analysis*
-2. Juul S, Nielsen EE, Feinberg J, Siddiqui F, Jørgensen CK, Barot E, Nielsen N, Bentzer P, Veroniki AA, Thabane L, Bu F, Klingenberg S, Gluud C, Jakobsen JC. Interventions for treatment of COVID-19: A living systematic review with meta-analyses and trial sequential analyses (The LIVING Project). PLoS Med. 2020 Sep 17;17(9):e1003293. doi: [10.1371/journal.pmed.1003293](http://doi.org/10.1371/journal.pmed.1003293);. PMID: [32941437](http://pubmed.gov/32941437); PMCID: PMC7498193.
+1. Update to living systematic review on drug treatments for covid-19. BMJ. 2020 Dec 17;371:m4852. doi: [10.1136/bmj.m4852](http://doi.org/10.1136/bmj.m4852). PMID: [33334735](http://pubmed.gov/33334735).
+2. WHO Solidarity Trial Consortium, Pan H, Peto R, Karim QA, Alejandria M, Restrepo AMH, Garcia CH, Kieny MP, Malekzadeh R, Murthy S, Preziosi M-P, Reddy S, Roses M, Sathiyamoorthy V, Rottingen J-A, Swaminathan S. Repurposed antiviral drugs for COVID-19; interim WHO SOLIDARITY trial results. medRxiv [Internet]. Cold Spring Harbor Laboratory Press; 2020 Oct 15 [cited 2020 Oct 18];2020.10.15.20209817. DOI [10.1101/2020.10.15.20209817](http://doi.org/10.1101/2020.10.15.20209817); Available from: https://www.medrxiv.org/content/10.1101/2020.10.15.20209817v1 *This RCT includes a meta-analysis*
+3. Juul S, Nielsen EE, Feinberg J, Siddiqui F, Jørgensen CK, Barot E, Nielsen N, Bentzer P, Veroniki AA, Thabane L, Bu F, Klingenberg S, Gluud C, Jakobsen JC. Interventions for treatment of COVID-19: A living systematic review with meta-analyses and trial sequential analyses (The LIVING Project). PLoS Med. 2020 Sep 17;17(9):e1003293. doi: [10.1371/journal.pmed.1003293](http://doi.org/10.1371/journal.pmed.1003293);. PMID: [32941437](http://pubmed.gov/32941437); PMCID: PMC7498193.
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
