@@ -1,15 +1,16 @@
 COVID-19 treatment with remdesivir
 ============================================
-A expert-driven, 'really rapid' living systematic review
+An expert-driven, 'really rapid' living systematic review
 
 Short url: http://openmetaanalysis.github.io/covid-19/
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective. However, the heterogeneity of results as measured by I<sup>2</sup> was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 74% before creating clinical subgroup. Afer subgroups are formed, the residenual heterogeneity is 22% and [might not be important'](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)':
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective. However, the heterogeneity of results as measured by I<sup>2</sup> was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 74% before creating clinical subgroup. After subgroups are formed, the residenual heterogeneity is 22% and [might not be important'](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)':
 * Low risk group is significantly helped if  Hartung-Knapp analysis is not used
 * Could not include the Solidarity arm that mixes low and hi-flow O2
 
 An excellent clinical interpretation of this data is at
-> Sax, Paul. Does Remdesivir Actually Work? HIV and ID Observations [Internet]. 2020 Oct 18 [cited 2020 Oct 20]; Available from: https://blogs.jwatch.org/hiv-id-observations/index.php/does-remdesivir-actually-work/2020/10/18/
+> Curtis MR, Sax P. Web Exclusive. Annals for Hospitalists Inpatient Notes - Remdesivir-Making Sense of Emerging Evidence. Ann Intern Med. 2020 Dec 15;173(12):HO2-HO3. doi: [10.7326/M20-7498](http://doi.org/10.7326/M20-7498). PMID: [33316192](http://pubmed.gov/33316192).
+> Sax P. Does Remdesivir Actually Work? HIV and ID Observations [Internet]. 2020 Oct 18 [cited 2020 Oct 20]; Available from: https://blogs.jwatch.org/hiv-id-observations/index.php/does-remdesivir-actually-work/2020/10/18/
 
 <!--
 Meta-regression of common modulators (year of publication, study size, event rate in the control groups) finds that the outcome of the intervention is effected by xx.
