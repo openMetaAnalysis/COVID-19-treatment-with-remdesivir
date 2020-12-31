@@ -33,8 +33,8 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior [
 * [Description of studies (PICO table)](files/study-details/table-pico.pdf) (under construction)
 * [Risk of bias assessment](files/study-details/table-bias.pdf) (under construction)
 * [Network plots](../master/files/network) (optional) 
-* [Forest plots](../master/files/forest-plots) ([source data](files/data)) 
 -->
+* [Forest plots](../master/files/forest-plots) ([source data](files/data)) 
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
 
 The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
