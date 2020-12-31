@@ -39,6 +39,8 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior [
 
 The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
 ![Principle results](files/forest-plots/Outcome-Primary.png)
+
+\* The Wuhan data is from the meta-analysis in the Pan preprint DOI [10.1101/2020.10.15.20209817v1](http://doi.org/10.1101/2020.10.15.20209817v1). The numbers are attribted to the Wuhan author Bin Cao but do not quite match the Lancet final publication; however, the Lancet publication does not provide numbers for subgroups.
 <!--
 The meta-regression for the primary outcomes are below. Additional [meta-regressions](files/metaregression) of secondary analyses may be available. 
 ![Principle results for benefit](files/metaregression/Outcome-Primary.png "Principle results for benefit]") (under construction)
