@@ -1,7 +1,7 @@
 Study,            Year,PMID,experimental_events,experimental_total,control_events,control_total,Respiratory support, cofactor.intervention,DOI,Registration
 ACTT-1 no O2 (NIH. Breigel),2020,32445440,3,75,3,63,No or low-flow O2,200 mg then 100 mg x 9 days,NA,NCT04280705
 ACTT-1 low-flow O2 (NIH. Breigel),2020,32445440,9,232,25,203,No or low-flow O2,200 mg then 100 mg x 9 days,NA,NCT04280705
-ACTT-1 (NIH. Breigel),2020,32445440,47,126,49,252,High flow or ventilation,200 mg then 100 mg x 9 days,NA,NCT04280705
+ACTT-1 (NIH. Breigel),2020,32445440,47,226,49,252,High flow or ventilation,200 mg then 100 mg x 9 days,NA,NCT04280705
 Wuhan low-flow O2 (WHO. Wang et al),2020,32423584,11,129,7,68,No or low-flow O2,,NA,NCT04257656
 Wuhan (WHO. Wang et al),2020,32423584,11,29,3,10,High flow or ventilation,,NA,NCT04257656
 SOLIDARITY no O2 (WHO. Pan et al),2020,NA,11,661,13,664,No or low-flow O2,200 mg then 100 mg x 9 days,10.1101/2020.10.15.20209817,NA
