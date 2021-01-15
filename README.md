@@ -4,8 +4,8 @@ An expert-driven, 'really rapid' living systematic review
 
 Short url: http://openmetaanalysis.github.io/covid-19/remdesivir
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective. However, the heterogeneity of results as measured by I<sup>2</sup> was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 74% before creating clinical subgroup. After subgroups are formed, the residenual heterogeneity is 22% and [might not be important'](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)':
-* Low risk group is significantly helped if  Hartung-Knapp analysis is not used
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective. However, the heterogeneity of results as measured by I<sup>2</sup> was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 49% before creating clinical subgroup. After subgroups are formed, the residual heterogeneity is 0% and [might not be important'](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)':
+* Low risk group is significantly benefitted by remdesivir
 * Could not include the Solidarity arm that mixes low and hi-flow O2
 
 An excellent clinical interpretation of this data is at
